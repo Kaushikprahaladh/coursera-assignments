@@ -17,6 +17,7 @@ h1 {
     background-color: rgb(177, 177, 177);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 15px;
+    border-radius: 1%;
     border-style: double;
     border-color: brown;
     
