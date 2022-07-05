@@ -16,17 +16,13 @@ h1 {
     font-size: 50% ;
     background-color: aquamarine;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 15px;
     margin: 20px;
-    border-width: 5px;
-    border-color: brown;
+    border: 5px;color: brown;
     
 }
 .pa {
        background-color: burlywood;
        font-size: 150%;
-       width: 5%;
-       height: 7%;
        position: relative;
        right: -95%;
 }
