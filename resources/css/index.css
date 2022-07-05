@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-size: 200%;
+}
+.row{
+    width:100%;
+}
+h1 { 
+         font-weight: bold;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         margin-bottom: 15px;
+}
+.d1 {
+    font-size: 0.25em;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.pa {
+       background-color: burlywood;
+       font-size: 0.75em;
+       width: 5%;
+       height: 7%;
+       position: relative;
+       right: -100%;
+}
